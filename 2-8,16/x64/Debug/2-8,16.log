@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\lexanderav\source\repos\binary conversion to 16\2-8,16\main.cpp(29,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lexanderav\source\repos\binary conversion to 16\2-8,16\main.cpp(40,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\lexanderav\source\repos\binary conversion to 16\2-8,16\main.cpp(104,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  2-8,16.vcxproj -> C:\Users\lexanderav\source\repos\binary conversion to 16\x64\Debug\2-8,16.exe
